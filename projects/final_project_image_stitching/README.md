@@ -1,4 +1,4 @@
-ECE 278A final project
+## ECE 278A final project
 
-Title: Super widefield particle tracking in near real-time via image stitching </p>
-Group: Sean MacKenzie, Peter Li, Rami Dabit
+- Title: Super widefield particle tracking in near real-time via image stitching </p>
+- Group: Sean MacKenzie, Peter Li, Rami Dabit
